@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Restaurant.cpp | CSCI 315](project1)
+### [Restaurant.cpp | CSCI 235](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
