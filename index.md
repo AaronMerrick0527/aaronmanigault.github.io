@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [lab04 | CSCI 301](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Restaurant.cpp | CSCI 315](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [lab08 | CSCI 325](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [lab6 | CSCI 332](project1)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Survey of Scripting Languages Ethics paper](/pdf/sample_presentation.pdf)
 
 -   **Class:**  
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Object Oriented Programming Ethics Paper](/pdf/sample_presentation.pdf)
 
 -   **Class:** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Applied Networking Ethics Paper](/pdf/sample_presentation.pdf)
 
 -   **Class:** 
 -   **Grade:**
